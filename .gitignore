@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+
+# Node / frontend
+node_modules/
+frontend/dist/
+*.local
+
+# Vite
+frontend/.vite/
+
+# OS & editors
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+*.suo
+*.user
+
+# Logs
+*.log
+npm-debug.log*
